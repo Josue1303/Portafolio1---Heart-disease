@@ -10,6 +10,4 @@ A pesar de este ajuste en la selección de la variable objetivo, decidí conserv
   
 - **Modelo con target como label:** Enfocado en predecir si un paciente tiene o no una enfermedad cardíaca. Este es el análisis principal y el más relevante para la detección temprana de enfermedades cardíacas en pacientes.
 
-Ambos modelos están disponibles en este repositorio, y puedes explorar los notebooks asociados para revisar las metodologías empleadas, los resultados obtenidos y las conclusiones derivadas de cada análisis.
-
-Sientete libre de revisar ambos enfoques para comprender mejor las distintas perspectivas que se pueden adoptar al trabajar con datos de salud.
+Ambos modelos están disponibles en este repositorio, y se pueden ver los notebooks asociados para revisar las metodologías empleadas, los resultados obtenidos y las conclusiones derivadas de cada análisis.
